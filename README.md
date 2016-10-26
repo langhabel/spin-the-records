@@ -40,4 +40,4 @@ The console output will represent the synthesized mix.
 
 ## License
 
-Copyright 2013 Jonas Langhabel. See [License](https://github.com/langhabel/spin-the-records/LICENSE) for details.
+Copyright 2013 Jonas Langhabel. See [License](https://github.com/langhabel/spin-the-records/blob/master/LICENSE) for details.
