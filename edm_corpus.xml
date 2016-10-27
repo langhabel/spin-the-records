@@ -1,0 +1,3825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library dir="../">
+<track>
+    <name>Be</name>
+    <key>10</key>
+    <bpm>128</bpm>
+    <time>272</time>
+    <filename>Be.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>9</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>18</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Polkadots</name>
+    <key>10</key>
+    <bpm>128</bpm>
+    <time>264</time>
+    <filename>Polkadots.mp3</filename>
+    <segments count="8">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Riverside</name>
+    <key>1</key>
+    <bpm>126</bpm>
+    <time>320</time>
+    <filename>Riverside.mp3</filename>
+    <segments count="9">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Life Goes On</name>
+    <key>4</key>
+    <bpm>126</bpm>
+    <time>465</time>
+    <filename>LifeGoesOn.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>64</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Bump To Dis</name>
+    <key>1</key>
+    <bpm>128</bpm>
+    <time>405</time>
+    <filename>BumpToDis.mp3</filename>
+    <segments count="16">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="16">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Handguns</name>
+    <key>3</key>
+    <bpm>128</bpm>
+    <time>301</time>
+    <filename>Handguns.mp3</filename>
+    <segments count="8">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Rattle</name>
+    <key>5</key>
+    <bpm>128</bpm>
+    <time>284</time>
+    <filename>Rattle.mp3</filename>
+    <segments count="17">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="16">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="17">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Call Me Maybe</name>
+    <key>21</key>
+    <bpm>120</bpm>
+    <time>195</time>
+    <filename>CallMeMayBe.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>6</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>9</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Hey Boy Hey Girl</name>
+    <key>7</key>
+    <bpm>127</bpm>
+    <time>290</time>
+    <filename>HeyBoyHeyGirl.mp3</filename>
+    <segments count="14">
+      <segment id="1">
+        <type>Intro</type>
+        <size>26</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Loca People</name>
+    <key>12</key>
+    <bpm>127</bpm>
+    <time>215</time>
+    <filename>LocaPeople.mp3</filename>
+    <segments count="12">
+      <segment id="1">
+        <type>Intro</type>
+        <size>6</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>3</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Turbulence</name>
+    <key>8</key>
+    <bpm>130</bpm>
+    <time>385</time>
+    <filename>Turbulence.mp3</filename>
+    <segments count="17">
+      <segment id="1">
+        <type>Intro</type>
+        <size>24</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>1</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>1</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="16">
+        <type>Chorus</type>
+        <size>24</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="17">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Get On The Move</name>
+    <key>1</key>
+    <bpm>127</bpm>
+    <time>305</time>
+    <filename>GetOnTheMove.mp3</filename>
+    <segments count="12">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Day N Nite</name>
+    <key>9</key>
+    <bpm>130</bpm>
+    <time>439</time>
+    <filename>DayNNite.mp3</filename>
+    <segments count="19">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="15">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="16">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="17">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="18">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="19">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Walk The Line</name>
+    <key>19</key>
+    <bpm>128</bpm>
+    <time>316</time>
+    <filename>WalkTheLine.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>20</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Get Shaky</name>
+    <key>2</key>
+    <bpm>128</bpm>
+    <time>287</time>
+    <filename>GetShaky.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Seek Bromance</name>
+    <key>12</key>
+    <bpm>126</bpm>
+    <time>241</time>
+    <filename>SeekBromance.m4a</filename>
+    <segments count="10">
+      <segment id="1">
+        <type>Intro</type>
+        <size>26</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Outro</type>
+        <size>10</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>How Does It Feel</name>
+    <key>5</key>
+    <bpm>128</bpm>
+    <time>299</time>
+    <filename>HowDoesItFeel.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>6</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Im In The House</name>
+    <key>9</key>
+    <bpm>133</bpm>
+    <time>339</time>
+    <filename>ImInTheHouse.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>10</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>5</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Serious</name>
+    <key>5</key>
+    <bpm>128</bpm>
+    <time>355</time>
+    <filename>Serious.mp3</filename>
+    <segments count="19">
+      <segment id="1">
+        <type>Intro</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="16">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="17">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="18">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="19">
+        <type>Outro</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Nite Time</name>
+    <key>2</key>
+    <bpm>128</bpm>
+    <time>433</time>
+    <filename>NiteTime.mp3</filename>
+    <segments count="20">
+      <segment id="1">
+        <type>Intro</type>
+        <size>10</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="16">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="17">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="18">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="19">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="20">
+        <type>Outro</type>
+        <size>24</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>My Belief</name>
+    <key>7</key>
+    <bpm>127</bpm>
+    <time>232</time>
+    <filename>MyBelief.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>5</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Rainbow Of Love</name>
+    <key>10</key>
+    <bpm>128</bpm>
+    <time>499</time>
+    <filename>RainbowOfLove.m4a</filename>
+    <segments count="12">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Happy People</name>
+    <key>5</key>
+    <bpm>127</bpm>
+    <time>182</time>
+    <filename>HappyPeople.m4a</filename>
+    <segments count="10">
+      <segment id="1">
+        <type>Intro</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Crack El</name>
+    <key>10</key>
+    <bpm>125</bpm>
+    <time>399</time>
+    <filename>CrackEl.mp3</filename>
+    <segments count="8">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>I Like That</name>
+    <key>11</key>
+    <bpm>129</bpm>
+    <time>257</time>
+    <filename>ILikeThat.mp3</filename>
+    <segments count="12">
+      <segment id="1">
+        <type>Intro</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>5</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Alcoholic</name>
+    <key>6</key>
+    <bpm>128</bpm>
+    <time>278</time>
+    <filename>Alcoholic.mp3</filename>
+    <segments count="9">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Chicano</name>
+    <key>11</key>
+    <bpm>128</bpm>
+    <time>243</time>
+    <filename>Chicano.mp3</filename>
+    <segments count="9">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Black Is Black</name>
+    <key>8</key>
+    <bpm>128</bpm>
+    <time>261</time>
+    <filename>BlackIsBlack.mp3</filename>
+    <segments count="10">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Outro</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Born Again</name>
+    <key>9</key>
+    <bpm>127</bpm>
+    <time>188</time>
+    <filename>BornAgain.m4a</filename>
+    <segments count="10">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Outro</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Meet Her At The Loveparade</name>
+    <key>10</key>
+    <bpm>132</bpm>
+    <time>212</time>
+    <filename>MeetHerAtTheLoveparade.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>1</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>1</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Gold Dust</name>
+    <key>9</key>
+    <bpm>86</bpm>
+    <time>178</time>
+    <filename>GoldDust.m4a</filename>
+    <segments count="5">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Only Girl</name>
+    <key>10</key>
+    <bpm>126</bpm>
+    <time>235</time>
+    <filename>OnlyGirl.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>1</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Brand New Bitch</name>
+    <key>5</key>
+    <bpm>125</bpm>
+    <time>346</time>
+    <filename>BrandNewBitch.mp3</filename>
+    <segments count="13">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Disco Electrique</name>
+    <key>4</key>
+    <bpm>128</bpm>
+    <time>464</time>
+    <filename>DiscoElectrique.mp3</filename>
+    <segments count="10">
+      <segment id="1">
+        <type>Intro</type>
+        <size>60</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>64</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Dutchano</name>
+    <key>5</key>
+    <bpm>128</bpm>
+    <time>408</time>
+    <filename>Dutchano.mp3</filename>
+    <segments count="18">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>6</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="16">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="17">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="18">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Greyhound</name>
+    <key>6</key>
+    <bpm>125</bpm>
+    <time>410</time>
+    <filename>Greyhound.mp3</filename>
+    <segments count="14">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Hit The Floor</name>
+    <key>11</key>
+    <bpm>126</bpm>
+    <time>192</time>
+    <filename>HitTheFloor.mp3</filename>
+    <segments count="13">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="13">
+        <type>Outro</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>I Follow Rivers</name>
+    <key>8</key>
+    <bpm>122</bpm>
+    <time>283</time>
+    <filename>IFollowRivers.mp3</filename>
+    <segments count="9">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>King Of My Castle</name>
+    <key>2</key>
+    <bpm>125</bpm>
+    <time>214</time>
+    <filename>KingOfMyCastle.mp3</filename>
+    <segments count="9">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Outro</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Pursuit Of Happiness</name>
+    <key>8</key>
+    <bpm>128</bpm>
+    <time>377</time>
+    <filename>PursuitOfHappiness.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>She</name>
+    <key>5</key>
+    <bpm>128</bpm>
+    <time>201</time>
+    <filename>She.mp3</filename>
+    <segments count="8">
+      <segment id="1">
+        <type>Intro</type>
+        <size>10</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Spaceman</name>
+    <key>2</key>
+    <bpm>140</bpm>
+    <time>234</time>
+    <filename>Spaceman.mp3</filename>
+    <segments count="13">
+      <segment id="1">
+        <type>Intro</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>One</name>
+    <key>7</key>
+    <bpm>128</bpm>
+    <time>242</time>
+    <filename>One.m4a</filename>
+    <segments count="14">
+      <segment id="1">
+        <type>Intro</type>
+        <size>25</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Die Mit Dem Roten Halsband</name>
+    <key>3</key>
+    <bpm>128</bpm>
+    <time>301</time>
+    <filename>DieMitDemRotenHalsband.mp3</filename>
+    <segments count="24">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>3</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="16">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="17">
+        <type>Bridge</type>
+        <size>7</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="18">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="19">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="20">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="21">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="22">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="23">
+        <type>Bridge</type>
+        <size>5</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="24">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Crank That</name>
+    <key>5</key>
+    <bpm>140</bpm>
+    <time>305</time>
+    <filename>CrankThat.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>What Them Girls Like</name>
+    <key>5</key>
+    <bpm>85</bpm>
+    <time>246</time>
+    <filename>WhatThemGirlsLike.mp3</filename>
+    <segments count="28">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>6</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="14">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="15">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="16">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="17">
+        <type>Chorus</type>
+        <size>6</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="18">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="19">
+        <type>Chorus</type>
+        <size>6</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="20">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="21">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="22">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="23">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="24">
+        <type>Chorus</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="25">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="26">
+        <type>Chorus</type>
+        <size>6</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="27">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="28">
+        <type>Outro</type>
+        <size>6</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Give It Up To Me</name>
+    <key>5</key>
+    <bpm>128</bpm>
+    <time>246</time>
+    <filename>GiveItUpToMe.mp3</filename>
+    <segments count="14">
+      <segment id="1">
+        <type>Intro</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>2</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Chorus</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="14">
+        <type>Outro</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Love Lockdown</name>
+    <key>11</key>
+    <bpm>120</bpm>
+    <time>255</time>
+    <filename>LoveLockdown.mp3</filename>
+    <segments count="11">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>4</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>20</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Outro</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Just A Lil Bit</name>
+    <key>4</key>
+    <bpm>97</bpm>
+    <time>238</time>
+    <filename>JustALilBit.mp3</filename>
+    <segments count="8">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Dont Sweat That</name>
+    <key>9</key>
+    <bpm>100</bpm>
+    <time>271</time>
+    <filename>DontSweatThat.mp3</filename>
+    <segments count="9">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="6">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Outro</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>In Da Club</name>
+    <key>12</key>
+    <bpm>113</bpm>
+    <time>242</time>
+    <filename>InDaClub.mp3</filename>
+    <segments count="5">
+      <segment id="1">
+        <type>Intro</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="3">
+        <type>Chorus</type>
+        <size>32</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Outro</type>
+        <size>24</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Delirious</name>
+    <key>10</key>
+    <bpm>128</bpm>
+    <time>435</time>
+    <filename>Delirious.mp3</filename>
+    <segments count="15">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>24</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>22</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="9">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="10">
+        <type>Bridge</type>
+        <size>12</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>10</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="12">
+        <type>Chorus</type>
+        <size>12</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="13">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="14">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="15">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+<track>
+    <name>Be Remix</name>
+    <key>11</key>
+    <bpm>130</bpm>
+    <time>340</time>
+    <filename>BeRemix.mp3</filename>
+    <segments count="12">
+      <segment id="1">
+        <type>Intro</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="2">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="3">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="4">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="5">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="6">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="7">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="8">
+        <type>Bridge</type>
+        <size>16</size>
+        <vocal>true</vocal>
+      </segment>
+      <segment id="9">
+        <type>Chorus</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="10">
+        <type>Chorus</type>
+        <size>16</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="11">
+        <type>Bridge</type>
+        <size>8</size>
+        <vocal>false</vocal>
+      </segment>
+      <segment id="12">
+        <type>Outro</type>
+        <size>32</size>
+        <vocal>false</vocal>
+      </segment>
+    </segments>
+  </track>
+</library>
